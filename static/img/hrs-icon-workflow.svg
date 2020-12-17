@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-hrosl-Workflow_1);
+      }
+
+      .cls-2 {
+        fill: #4aa2e5;
+      }
+
+      .cls-3 {
+        fill: #6ab0e4;
+      }
+
+      .cls-10, .cls-13, .cls-4, .cls-5, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-5, .cls-7, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-5, .cls-7 {
+        stroke-width: 6px;
+      }
+
+      .cls-11, .cls-5 {
+        stroke-dasharray: 3;
+      }
+
+      .cls-11, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-12, .cls-13 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-hrosl-Workflow_1">
+      <rect width="240" height="240"/>
+    </clipPath>
+  </defs>
+  <g id="hrosl-Workflow_1" data-name="hrosl-Workflow – 1" class="cls-1">
+    <g id="Group_381" data-name="Group 381" transform="translate(120.15 -25.523) rotate(45)">
+      <path id="main" class="cls-2" d="M102.912,0A103,103,0,1,1,0,102.912,103.212,103.212,0,0,1,102.912,0Z" transform="translate(0 206) rotate(-90)"/>
+      <path id="_1" data-name="1" class="cls-3" d="M102.912,0C159.8.048,205.952,45.834,206,102.267L.04,102.489a3.243,3.243,0,0,1-.04-.4C-.048,45.66,46.027-.048,102.912,0Z" transform="translate(0 206) rotate(-90)"/>
+    </g>
+    <g id="Group_237" data-name="Group 237" transform="translate(106.184 143.908)">
+      <g id="Path_5141" data-name="Path 5141" class="cls-4" transform="translate(-0.184 0.092)">
+        <path class="cls-12" d="M 73 20 L 3 20 L 3 3 L 73 3 L 73 20 Z"/>
+        <path class="cls-13" d="M 6 6 L 6 17 L 70 17 L 70 6 L 6 6 M 0 0 L 76 0 L 76 23 L 0 23 L 0 0 Z"/>
+      </g>
+    </g>
+    <path id="Path_4994" data-name="Path 4994" class="cls-5" d="M4.665,0H39.53" transform="translate(66.993 80.331)"/>
+    <g id="Path_5142" data-name="Path 5142" class="cls-6" transform="translate(60 114)">
+      <path class="cls-12" d="M8.5,0A8.5,8.5,0,1,1,0,8.5,8.5,8.5,0,0,1,8.5,0Z"/>
+      <path class="cls-13" d="M 8.5 4 C 6.01869010925293 4 4 6.01869010925293 4 8.5 C 4 10.98130989074707 6.01869010925293 13 8.5 13 C 10.98130989074707 13 13 10.98130989074707 13 8.5 C 13 6.01869010925293 10.98130989074707 4 8.5 4 M 8.5 0 C 13.19441986083984 0 17 3.805580139160156 17 8.5 C 17 13.19441986083984 13.19441986083984 17 8.5 17 C 3.805580139160156 17 0 13.19441986083984 0 8.5 C 0 3.805580139160156 3.805580139160156 0 8.5 0 Z"/>
+    </g>
+    <g id="Group_235" data-name="Group 235" transform="translate(106.184 69.124)">
+      <g id="Path_5140" data-name="Path 5140" class="cls-4" transform="translate(-0.184 -0.124)">
+        <path class="cls-12" d="M 73 20 L 3 20 L 3 3 L 73 3 L 73 20 Z"/>
+        <path class="cls-13" d="M 6 6 L 6 17 L 70 17 L 70 6 L 6 6 M 0 0 L 76 0 L 76 23 L 0 23 L 0 0 Z"/>
+      </g>
+      <line id="Line_111" data-name="Line 111" class="cls-7" x2="22.413" transform="translate(45.165 11.885)"/>
+      <path id="Path_5146" data-name="Path 5146" class="cls-8" d="M0,0H22.413" transform="translate(45.165 86.885)"/>
+      <line id="Line_112" data-name="Line 112" class="cls-7" x2="22.413" transform="translate(8.49 11.885)"/>
+      <g id="Ellipse_54" data-name="Ellipse 54" class="cls-9" transform="translate(32.816 9.876)">
+        <ellipse class="cls-12" cx="1.5" cy="2" rx="1.5" ry="2"/>
+        <ellipse class="cls-8" cx="1.5" cy="2" rx="1" ry="1.5"/>
+      </g>
+      <g id="Path_5145" data-name="Path 5145" class="cls-4" transform="translate(39.816 9.876)">
+        <path class="cls-12" d="M 1.5 3.5 C 0.9579399824142456 3.5 0.5 2.813080072402954 0.5 2 C 0.5 1.186920046806335 0.9579399824142456 0.5 1.5 0.5 C 2.042059898376465 0.5 2.5 1.186920046806335 2.5 2 C 2.5 2.813080072402954 2.042059898376465 3.5 1.5 3.5 Z"/>
+        <path class="cls-13" d="M 1.5 1 C 1.323729991912842 1 1 1.37965989112854 1 2 C 1 2.620339870452881 1.323729991912842 3 1.5 3 C 1.676270008087158 3 2 2.620339870452881 2 2 C 2 1.37965989112854 1.676270008087158 1 1.5 1 M 1.5 0 C 2.328429937362671 0 3 0.8954300880432129 3 2 C 3 3.104569911956787 2.328429937362671 4 1.5 4 C 0.6715700626373291 4 0 3.104569911956787 0 2 C 0 0.8954300880432129 0.6715700626373291 0 1.5 0 Z"/>
+      </g>
+    </g>
+    <g id="Group_236" data-name="Group 236" transform="translate(106.184 108.516)">
+      <g id="Rectangle_158" data-name="Rectangle 158" class="cls-10" transform="translate(-0.184 0.484)">
+        <rect class="cls-12" width="76" height="23"/>
+        <rect class="cls-8" x="3" y="3" width="70" height="17"/>
+      </g>
+      <line id="Line_111-2" data-name="Line 111" class="cls-7" x2="22.413" transform="translate(45.165 11.885)"/>
+      <line id="Line_112-2" data-name="Line 112" class="cls-7" x2="22.413" transform="translate(8.49 11.885)"/>
+      <g id="Ellipse_54-2" data-name="Ellipse 54" class="cls-9" transform="translate(32.816 10.484)">
+        <circle class="cls-12" cx="1.5" cy="1.5" r="1.5"/>
+        <circle class="cls-8" cx="1.5" cy="1.5" r="1"/>
+      </g>
+      <g id="Ellipse_55" data-name="Ellipse 55" class="cls-9" transform="translate(39.816 10.484)">
+        <circle class="cls-12" cx="1.5" cy="1.5" r="1.5"/>
+        <circle class="cls-8" cx="1.5" cy="1.5" r="1"/>
+      </g>
+    </g>
+    <line id="Line_113" data-name="Line 113" class="cls-11" x2="29.204" transform="translate(77.319 122.439)"/>
+    <path id="Path_4997" data-name="Path 4997" class="cls-5" d="M1.906.433,41.513-.335" transform="translate(64.67 159.789)"/>
+    <path id="Path_4995" data-name="Path 4995" class="cls-5" d="M0,0V26.138" transform="translate(68.49 131.269)"/>
+    <line id="Line_117" data-name="Line 117" class="cls-11" y2="35.996" transform="translate(68.49 78.293)"/>
+  </g>
+</svg>
