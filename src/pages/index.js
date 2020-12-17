@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Face ID',
-    imageUrl: 'static/img/hrs-icon-face-id.svg',
+    // imageUrl: 'static/img/hrs-icon-face-id.svg',
     description: (
       <>
         Hệ thống quét nhận diện khuôn mặt- trải nghiệm một trong những công nghệ 4.0 tiên tiến nhất hiện nay mà không cần sử dụng các thiết bị hỗ trợ khác
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'QR Code',
-    imageUrl: 'static/img/hrs-icon-qrcode.svg',
+    // imageUrl: 'static/img/hrs-icon-qrcode.svg',
     description: (
       <>
         Tích hợp chấm công trên nhiều thiết bị, mang lại sự tiện lợi với độ chính xác cao và tiết kiệm thời gian
@@ -28,7 +28,7 @@ const features = [
   },
   {
     title: 'Cloud',
-    imageUrl: 'static/img/hrs-icon-cloud.svg',
+    // imageUrl: 'static/img/hrs-icon-cloud.svg',
     description: (
       <>
         Tất cả những dữ liệu và thông tin cá nhân của người dùng đều được lưu trữ vào điện toán đám mây - kho lưu trữ rộng lớn, giảm thiểu rủi ro đánh mất dữ liệu
@@ -37,7 +37,7 @@ const features = [
   },
   {
     title: 'Workflow',
-    imageUrl: 'static/img/hrs-icon-workflow.svg',
+    // imageUrl: 'static/img/hrs-icon-workflow.svg',
     description: (
       <>
         Quản lý yêu cầu của nhân viên và phân quyền riêng biệt tạo thành một hệ thống công việc khép kín tuần hoàn và kết nối
